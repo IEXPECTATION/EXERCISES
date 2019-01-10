@@ -199,7 +199,7 @@ void printsnake(void)
 				aftereat(&the_snake_head);
 				gamerscore++;
 				printsundry(MAP_LENGTH_MAX, MAP_WIDTH_MAX, gamerscore);
-				if (gamerscore == 1157)
+				if (gamerscore == 1092)
 				{
 					gotoxy(MAP_LENGTH_MAX - 15, MAP_WIDTH_MAX / 2);
 					printf("恭喜您通关，任意键退出游戏。");
