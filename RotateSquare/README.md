@@ -85,4 +85,4 @@ MoveToEx(hdc, pt3dPoint[3].x, pt3dPoint[3].y, NULL);
 LineTo(hdc, pt3dPoint[7].x, pt3dPoint[7].y);
 ```
 
-上面代码本没有进行测试，可能会有错误。
+上面代码没有进行测试，可能会有错误。
